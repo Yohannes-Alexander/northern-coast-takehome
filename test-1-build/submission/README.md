@@ -64,3 +64,5 @@ The server will run on `http://localhost:8000`. You can POST JSON payloads to `h
 3.  **Queue-Based Processing**: Use Celery/Redis background jobs to handle scoring asynchronously if requests scale beyond thousands of parallel calls.
 
 This is my URL deployed : https://northern-coast-takehome.vercel.app/
+
+This is my URL Repo Github : https://github.com/Yohannes-Alexander/northern-coast-takehome.git
