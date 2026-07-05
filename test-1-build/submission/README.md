@@ -62,3 +62,5 @@ The server will run on `http://localhost:8000`. You can POST JSON payloads to `h
 1.  **Observability & Tracing**: Integrate LangSmith or OpenTelemetry to monitor LLM latencies, prompt drift, and token consumption.
 2.  **CDP Database Logging**: Persist all inbound conversation logs and scores directly to a local SQL/NoSQL database for audit trails.
 3.  **Queue-Based Processing**: Use Celery/Redis background jobs to handle scoring asynchronously if requests scale beyond thousands of parallel calls.
+
+This is my URL deployed : https://northern-coast-takehome.vercel.app/
